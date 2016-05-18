@@ -2,6 +2,26 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/mowz/Documents/NetBeansProjects/proyecto_1/Pacman-in-Java/src/proyecto/Proyecto.java</file>
+            <file>file:/C:/Users/mowz/Documents/NetBeansProjects/proyecto_1/Pacman-in-Java/src/proyecto/Mapa.java</file>
+            <file>file:/C:/Users/mowz/Documents/NetBeansProjects/proyecto_1/Pacman-in-Java/src/proyecto/Pacman.java</file>
+            <file>file:/C:/Users/mowz/Documents/NetBeansProjects/proyecto_1/Pacman-in-Java/src/proyecto/imagen/block.png</file>
+            <file>file:/C:/Users/mowz/Documents/NetBeansProjects/proyecto_1/Pacman-in-Java/src/proyecto/imagen/fan_amarillo.png</file>
+            <file>file:/C:/Users/mowz/Documents/NetBeansProjects/proyecto_1/Pacman-in-Java/src/proyecto/imagen/fan_amarillo_comible.png</file>
+            <file>file:/C:/Users/mowz/Documents/NetBeansProjects/proyecto_1/Pacman-in-Java/src/proyecto/imagen/fan_azul.png</file>
+            <file>file:/C:/Users/mowz/Documents/NetBeansProjects/proyecto_1/Pacman-in-Java/src/proyecto/imagen/fan_azul_comible.png</file>
+            <file>file:/C:/Users/mowz/Documents/NetBeansProjects/proyecto_1/Pacman-in-Java/src/proyecto/imagen/fan_rojo.png</file>
+            <file>file:/C:/Users/mowz/Documents/NetBeansProjects/proyecto_1/Pacman-in-Java/src/proyecto/imagen/fan_rojo_comible.png</file>
+            <file>file:/C:/Users/mowz/Documents/NetBeansProjects/proyecto_1/Pacman-in-Java/src/proyecto/imagen/pacman_abajo.png</file>
+            <file>file:/C:/Users/mowz/Documents/NetBeansProjects/proyecto_1/Pacman-in-Java/src/proyecto/imagen/pacman_arr.png</file>
+            <file>file:/C:/Users/mowz/Documents/NetBeansProjects/proyecto_1/Pacman-in-Java/src/proyecto/imagen/pacman_cerrado.png</file>
+            <file>file:/C:/Users/mowz/Documents/NetBeansProjects/proyecto_1/Pacman-in-Java/src/proyecto/imagen/pacman_der.png</file>
+            <file>file:/C:/Users/mowz/Documents/NetBeansProjects/proyecto_1/Pacman-in-Java/src/proyecto/imagen/pacman_izq.png</file>
+            <file>file:/C:/Users/mowz/Documents/NetBeansProjects/proyecto_1/Pacman-in-Java/src/proyecto/imagen/perder.png</file>
+            <file>file:/C:/Users/mowz/Documents/NetBeansProjects/proyecto_1/Pacman-in-Java/src/proyecto/imagen/win!.png</file>
+            <file>file:/C:/Users/mowz/Documents/NetBeansProjects/proyecto_1/Pacman-in-Java/src/proyecto/Song.java</file>
+            <file>file:/C:/Users/mowz/Documents/NetBeansProjects/proyecto_1/Pacman-in-Java/src/proyecto/Buttom.java</file>
+        </group>
     </open-files>
 </project-private>
